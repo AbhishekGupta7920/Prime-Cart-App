@@ -1,10 +1,9 @@
-🚀 Amazon-Inspired E-Commerce Platform
+🚀 PrimeCart -- E-Commerce Platform
 
-Welcome to Amazon-Inspired E-Commerce Platform! This project is a feature-rich, modern web application designed to provide a seamless shopping experience. Built using cutting-edge technologies, it ensures smooth navigation, efficient data management, and a visually stunning interface.
+Welcome to PrimiCart This project is a feature-rich, modern web application designed to provide a seamless shopping experience. Built using cutting-edge technologies, it ensures smooth navigation, efficient data management, and a visually stunning interface.
 
 
-Live Link: https://amazon-abhi.netlify.app/
-
+Live Link: 
 🌟 Features
 
 🖥️ Frontend Interface Development
