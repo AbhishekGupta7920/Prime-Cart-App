@@ -40,11 +40,6 @@
 //                     </ul>
 //                 </nav>
 //             </div>
-//             <div className=''>
-//                 <h1>
-//                     Made with ❤️ by Abhishek Gupta
-//                 </h1>
-//             </div>
 //         </div>
 //     )
 // }
@@ -112,9 +107,6 @@ const ResponsiveMenu = ({ showMenu, setShowMenu }) => {
                                     </Link>
                                 </ul>
                             </nav>
-                        </div>
-                        <div className=''>
-                            <h1>Made with ❤️ by Abhishek Gupta</h1>
                         </div>
                     </div>
                 </div>
